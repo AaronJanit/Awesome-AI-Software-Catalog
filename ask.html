@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ask AI — Lume Software Finder</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <nav class="main-nav">
+        <a href="index.html">Home</a>
+        <a href="wildcard.html">Wildcard Software</a>
+        <a href="ask.html">🤖 Ask AI</a>
+        <a href="all-softwares.html">Softwares</a>
+        <a href="https://flavortown.hackclub.com/projects/4782" class="donate">Vote for Me</a>
+        <a href="https://flavortown.hackclub.com/projects/4782" >View Github Repository</a>
+      </nav>
+      <button class="menu-toggle" aria-expanded="false" aria-label="Menu">☰</button>
+    </div>
+  </header>
+
+  <div class="container main-wrap">
+    <header class="page-header">
+      <h1>Ask AI</h1>
+      <p>Describe your use case and preferences.</p>
+      <div class="controls">
+        <a href="index.html" class="btn secondary">← Back</a>
+      </div>
+    </header>
+    <main class="detail">
+      <textarea id="prompt" rows="5" placeholder="e.g. I want a free tool for writing code with AI help, preferably browser-based."></textarea>
+      <div style="margin: 1rem 0;">
+        <label><input type="checkbox" id="free"> Free</label>
+        <label><input type="checkbox" id="browser"> Browser-based</label>
+        <label><input type="checkbox" id="open"> Open source</label>
+      </div>
+      <button id="ask" class="primary">🤖 Recommend software</button>
+      <div id="results" style="margin-top: 2rem;"></div>
+    </main>
+  </div>
+
+  <footer class="site-footer">
+    <div class="container">
+      <small>© 2026 A HackClub FlavourTown Project Entry — Built with (mostly) open source software</small>
+    </div>
+  </footer>
+  <script src="mobile-menu.js"></script>
+  <script src="ask.js"></script>
+</body>
+</html>

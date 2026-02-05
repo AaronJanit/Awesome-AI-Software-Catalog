@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lume: All Softwares</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <nav class="main-nav">
+        <a href="index.html">Home</a>
+        <a href="wildcard.html">Wildcard Software</a>
+        <a href="ask.html">🤖 Ask AI</a>
+        <a href="all-softwares.html">Softwares</a>
+        <a href="https://flavortown.hackclub.com/projects/4782" class="donate">Vote for Me</a>
+        <a href="https://flavortown.hackclub.com/projects/4782" >View Github Repository</a>
+      </nav>
+      <button class="menu-toggle" aria-expanded="false" aria-label="Menu">☰</button>
+    </div>
+  </header>
+
+  <div class="site-brand container">
+    <h1 class="site-title">Lume</h1>
+    <h2>Illuminate your Software Journey</h2>
+  </div>
+
+  <main class="site-main container">
+    <article class="content">
+      <h4>Browse hundreds of softwares to find the one for <strong>you</strong> ↓</h4>
+    </article>
+    <nav id="breadcrumbs"></nav>
+    <div id="content"></div>
+  </main>
+
+  <div id="floating-search" aria-hidden="true">
+    <form id="floating-search-form" role="search">
+      <label for="floating-search-input" class="sr-only">Search softwares</label>
+      <input id="floating-search-input" type="search" placeholder="Search softwares..." aria-label="Search softwares">
+      <button type="submit" aria-label="Run search">🔍</button>
+      <button type="button" id="floating-search-close" aria-label="Close search">✕</button>
+    </form>
+  </div>
+
+  <footer class="site-footer">
+    <div class="container">
+      <small>© 2026 A HackClub FlavourTown Project Entry — Built with open (mostly) source software</small>
+    </div>
+  </footer>
+  <script src="mobile-menu.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

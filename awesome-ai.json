@@ -1,0 +1,1934 @@
+[
+  {
+    "name": "BING browser",
+    "url": "https://www.bing.com/",
+    "description": "Uses GPT-4 and DALLE for free image generation (built in into the browser)",
+    "category": "🤖 Well known AI tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Google Gemini",
+    "url": "https://gemini.google.com/",
+    "description": "Google AI assistant (BARD/GEMINI).",
+    "category": "🤖 Well known AI tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "OpenAI ",
+    "url": "https://openai.com/",
+    "description": "Cutting-Edge AI Research and Innovative Applications CHATGPT 5, 4o, DALL-E ,sora, codex and more.",
+    "category": "🤖 Well known AI tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Jasper AI",
+    "url": "https://www.jasper.ai/",
+    "description": "Multi-purpose AI tool for various applications.",
+    "category": "🤖 Well known AI tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Stable Diffusion",
+    "url": "https://stablediffusion.com",
+    "description": "AI model for stable and high-quality image generation.",
+    "category": "🤖 Well known AI tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "MidJourney",
+    "url": "https://midjourney.com",
+    "description": "Advanced tool for AI-driven artistic image creation.",
+    "category": "🤖 Well known AI tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "MindPal",
+    "url": "https://mindpal.ai",
+    "description": "A platform to build AI Agents and Multi-agent workflows.",
+    "category": "🤖 Well known AI tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "DALL-E 3",
+    "url": "https://openai.com/dall-e-3",
+    "description": "Latest iteration of OpenAI's powerful image generation model.",
+    "category": "🤖 Well known AI tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "TensorFlow",
+    "url": "https://www.tensorflow.org/",
+    "description": "Open-source machine learning framework by Google.",
+    "category": "🤖 Well known AI tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "IBM Watson",
+    "url": "https://www.ibm.com/watson",
+    "description": "Suite of enterprise-ready AI services, applications, and tooling.",
+    "category": "🤖 Well known AI tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Azure AI",
+    "url": "https://azure.microsoft.com/en-us/overview/ai-platform/",
+    "description": "Microsoft's comprehensive suite of AI tools and frameworks.",
+    "category": "🤖 Well known AI tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "DeepMind",
+    "url": "https://deepmind.com/",
+    "description": "Pioneering AI research lab, known for advancements in deep learning and AI for games.",
+    "category": "🤖 Well known AI tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "NVIDIA AI",
+    "url": "https://www.nvidia.com/en-us/deep-learning-ai/",
+    "description": "AI solutions and GPU-accelerated tools for deep learning.",
+    "category": "🤖 Well known AI tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Hugging Face",
+    "url": "https://huggingface.co/",
+    "description": "The AI community building the future with open-source AI technologies.",
+    "category": "🤖 Well known AI tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Fast.ai",
+    "url": "https://www.fast.ai/",
+    "description": "Making neural nets uncool again, focused on making deep learning more accessible.",
+    "category": "🤖 Well known AI tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Neuralink",
+    "url": "https://neuralink.com/",
+    "description": "Developing ultra-high bandwidth brain-machine interfaces to connect humans and computers.",
+    "category": "🤖 Well known AI tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "GROK (XAI)",
+    "url": "https://x.ai/",
+    "description": "AI model from X (former twitter) / GROK 4 / Image generation with Aurora and FLUX.1 model",
+    "category": "🤖 Well known AI tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Claude AI Chatbot Platform",
+    "url": "https://claude.ai",
+    "description": "Provides advanced online chatbot solutions with AI-driven interactivity.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Meta LLaMA - Large Language Models",
+    "url": "https://ai.meta.com/llama/",
+    "description": "A powerful platform for local language model analysis and applications.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Perplexity AI Query Assistant",
+    "url": "https://www.perplexity.ai/",
+    "description": "Interactive tool for AI-driven question answering and information retrieval.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "GetPaperFast AI paper summary",
+    "url": "https://www.getpaperfast.com/",
+    "description": "Fast Paper Summaries with Multilingual Export.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "DeepL Language Translator",
+    "url": "https://www.deepl.com/translator",
+    "description": "Offers superior language translation services powered by advanced AI technology.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "TensorFlow Machine Learning Library",
+    "url": "https://www.tensorflow.org/",
+    "description": "Comprehensive open-source machine learning framework.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Hugging Face NLP & Model Hub",
+    "url": "https://huggingface.co/",
+    "description": "Extensive repository of NLP models and datasets.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Algorithmia AI Model Deployment",
+    "url": "https://algorithmia.com/",
+    "description": "Platform for scalable AI and machine learning model deployment.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Wit.ai Developer NLP Tool",
+    "url": "https://wit.ai/",
+    "description": "Developer-focused tool for natural language processing.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "IBM Watson AI Solutions",
+    "url": "https://www.ibm.com/watson",
+    "description": "AI-powered business solutions and applications.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Dialogflow Conversational AI",
+    "url": "https://cloud.google.com/dialogflow",
+    "description": "Build and optimize AI-powered chat interfaces.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Future Tools",
+    "url": "https://www.futuretools.io/",
+    "description": "A comprehensive list of additional AI-related tools.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Fireflies AI",
+    "url": "https://fireflies.ai/",
+    "description": "AI tool for improving meetings.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Interviews by AI",
+    "url": "https://interviewsby.ai/",
+    "description": "AI-powered interview simulation.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Plusdocs",
+    "url": "https://www.plusdocs.com",
+    "description": "Tool for enhancing PowerPoint and Google Slides presentations.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Songs Like X",
+    "url": "https://songslikex.com/plans",
+    "description": "AI tool for creating Spotify playlists.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Zapier OpenAI Integrations",
+    "url": "https://zapier.com/apps/openai/integrations",
+    "description": "Automation tool integrating OpenAI's capabilities.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Rezi AI",
+    "url": "https://www.rezi.ai/",
+    "description": "AI-driven resume builder.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Ramblefix",
+    "url": "https://ramblefix.com",
+    "description": "Speak and interact with AI.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Claid AI",
+    "url": "https://claid.ai/",
+    "description": "AI-powered image processing tool.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "ClipDrop",
+    "url": "https://clipdrop.co/",
+    "description": "AI tool for image capturing and editing.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Palette FM",
+    "url": "https://palette.fm/",
+    "description": "AI for color management on images.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "HeyGen",
+    "url": "https://www.heygen.com/",
+    "description": "AI platform for video generation.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Phrasly AI",
+    "url": "https://phrasly.ai/",
+    "description": "AI tool to humanize text.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Generated Photos",
+    "url": "https://generated.photos/",
+    "description": "AI for generating human-like images.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Scribble Diffusion",
+    "url": "https://scribblediffusion.com/",
+    "description": "AI that generates images from drawings.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Jasper AI",
+    "url": "https://www.jasper.ai/",
+    "description": "Broad AI tool for various applications.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "AI for Biz",
+    "url": "https://aiforbiz.co/",
+    "description": "Helps find AI use cases for businesses.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Breeze AI",
+    "url": "https://breeze.ai/",
+    "description": "AI for marketing.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Wolfram Alpha",
+    "url": "https://www.wolframalpha.com/",
+    "description": "AI-driven computational engine.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Pictory AI",
+    "url": "https://pictory.ai/",
+    "description": "AI tool for video creation.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Repurpose.io",
+    "url": "https://repurpose.io/",
+    "description": "AI for content repurposing.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Copy.ai",
+    "url": "https://www.copy.ai/",
+    "description": "AI for copywriting.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "You.com",
+    "url": "https://you.com/",
+    "description": "AI-powered search engine.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Promo.com",
+    "url": "https://promo.com/",
+    "description": "AI tool for video creation.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "SocialStudio",
+    "url": "https://www.socialstudio.ai/",
+    "description": "AI for social media management.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Wave.video",
+    "url": "https://wave.video/",
+    "description": "AI for video marketing.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "RoamAround.io",
+    "url": "https://www.roamaround.io/",
+    "description": "AI for travel planning.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Codeium",
+    "url": "https://codeium.com/",
+    "description": "AI for coding assistance.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Jenni.ai",
+    "url": "https://jenni.ai",
+    "description": "AI writing tool designed primarily for students, facilitating swift and efficient content creation.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "HeyGen.com",
+    "url": "https://heygen.com",
+    "description": "Effortlessly produce studio-quality videos with AI-generated avatars and voices.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "vizologi.com",
+    "url": "https://vizologi.com",
+    "description": "Offers a unique blend of business model canvassing and AI-driven market analysis.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "krater.ai",
+    "url": "https://krater.ai",
+    "description": "Your SuperApp for all things Artificial Intelligence.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "fathom.video",
+    "url": "https://fathom.video",
+    "description": "Records, transcribes, highlights, and summarizes your meetings.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "levity.ai",
+    "url": "https://levity.ai",
+    "description": "Automates data entry, rate lookup, and even drafts email responses—all without leaving your inbox.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Logicballs",
+    "url": "https://logicballs.com",
+    "description": "An AI-powered writing tool to create any type of content and supercharge your productivity.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "TextCraft",
+    "url": "https://github.com/suncloudsmoon/TextCraft",
+    "description": "Add-in for Microsoft Word that seamlessly integrates essential AI tools, including text generation, proofreading, and more, directly into the user interface.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "bugfree.ai",
+    "url": "https://bugfree.ai/",
+    "description": "bugfree.ai is an advanced AI-powered platform designed to practice and prepare for system design and behavioral interviews.",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "manifest.build",
+    "url": "https://manifest.build/",
+    "description": "The backend AI can generate, developers can trust! ",
+    "category": "🤖 AI-Related Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "DeepL",
+    "url": "https://www.deepl.com/translator",
+    "description": "Advanced Language Translation",
+    "category": "🆕 Additional AI and Productivity Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "TensorFlow",
+    "url": "https://www.tensorflow.org/",
+    "description": "Machine Learning Library",
+    "category": "🆕 Additional AI and Productivity Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Hugging Face",
+    "url": "https://huggingface.co/",
+    "description": "NLP and Transformer Models",
+    "category": "🆕 Additional AI and Productivity Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "IBM Watson",
+    "url": "https://www.ibm.com/watson",
+    "description": "AI for Business Solutions",
+    "category": "🆕 Additional AI and Productivity Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Azure AI",
+    "url": "https://azure.microsoft.com/en-us/overview/ai-platform/",
+    "description": "Microsoft's AI Platform",
+    "category": "🆕 Additional AI and Productivity Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Google AI",
+    "url": "https://ai.google/",
+    "description": "Google's AI Research and Tools",
+    "category": "🆕 Additional AI and Productivity Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Kaggle",
+    "url": "https://www.kaggle.com/",
+    "description": "Data Science and ML Platform",
+    "category": "🆕 Additional AI and Productivity Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "DataRobot",
+    "url": "https://www.datarobot.com/",
+    "description": "Automated Machine Learning",
+    "category": "🆕 Additional AI and Productivity Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "OpenAI",
+    "url": "https://openai.com/",
+    "description": "AI Research and Applications",
+    "category": "🆕 Additional AI and Productivity Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Algorithmia",
+    "url": "https://algorithmia.com/",
+    "description": "AI Model Deployment",
+    "category": "🆕 Additional AI and Productivity Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "MonkeyLearn",
+    "url": "https://monkeylearn.com/",
+    "description": "Text Analysis with AI",
+    "category": "🆕 Additional AI and Productivity Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Rasa",
+    "url": "https://rasa.com/",
+    "description": "Open Source Chatbot Framework",
+    "category": "🆕 Additional AI and Productivity Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Dialogflow",
+    "url": "https://cloud.google.com/dialogflow",
+    "description": "Google's Chatbot Platform",
+    "category": "🆕 Additional AI and Productivity Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Otter.ai",
+    "url": "https://otter.ai/",
+    "description": "AI-Powered Note Taking",
+    "category": "🆕 Additional AI and Productivity Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Monday.com",
+    "url": "https://monday.com/",
+    "description": "Work Operating System",
+    "category": "🆕 Additional AI and Productivity Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "RescueTime",
+    "url": "https://www.rescuetime.com/",
+    "description": "Time Management",
+    "category": "🆕 Additional AI and Productivity Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Todoist",
+    "url": "https://todoist.com/",
+    "description": "Task Management",
+    "category": "🆕 Additional AI and Productivity Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Grammarly",
+    "url": "https://www.grammarly.com/",
+    "description": "Writing Assistant",
+    "category": "🆕 Additional AI and Productivity Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Canva",
+    "url": "https://www.canva.com/",
+    "description": "Easy Graphic Design",
+    "category": "🆕 Additional AI and Productivity Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "aimatchpro",
+    "url": "https://aimatch.pro/",
+    "description": "Platform to search for Aitools",
+    "category": "🆕 Additional AI and Productivity Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Instafill.ai",
+    "url": "https://instafill.ai",
+    "description": "AI PDF Form Filler",
+    "category": "🆕 Additional AI and Productivity Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "UnSoloMind.com",
+    "url": "https://unsolomind.com",
+    "description": "Knowledge base AI assistant",
+    "category": "🆕 Additional AI and Productivity Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Codeflash",
+    "url": "https://www.codeflash.ai/",
+    "description": "Ship Blazing-Fast Python Code — Every Time",
+    "category": "🆕 Additional AI and Productivity Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "SummaryTube.com",
+    "url": "https://summarytube.com",
+    "description": "AI Youtube Video Summarizer",
+    "category": "🆕 Additional AI and Productivity Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Codeflash",
+    "url": "https://www.codeflash.ai/",
+    "description": "Ship Blazing-Fast Python Code — Every Time",
+    "category": "🆕 Additional AI and Productivity Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Data School",
+    "url": "https://www.youtube.com/user/dataschool",
+    "description": "Practical data science and machine learning tutorials.",
+    "category": "YouTube Channels",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Luis Serrano",
+    "url": "https://www.youtube.com/c/LuisSerrano",
+    "description": "Simplifying machine learning and artificial intelligence concepts.",
+    "category": "YouTube Channels",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Arxiv Insights",
+    "url": "https://www.youtube.com/c/ArxivInsights",
+    "description": "Explaining complex AI and machine learning papers.",
+    "category": "YouTube Channels",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "AI Coffee Break with Letitia",
+    "url": "https://www.youtube.com/c/AICoffeeBreak",
+    "description": "Brief and informative sessions on AI topics.",
+    "category": "YouTube Channels",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Yannic Kilcher",
+    "url": "https://www.youtube.com/c/YannicKilcher",
+    "description": "Deep dive into AI research papers.",
+    "category": "YouTube Channels",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Deeplizard",
+    "url": "https://www.youtube.com/c/deeplizard",
+    "description": "Advanced tutorials on deep learning and neural networks.",
+    "category": "YouTube Channels",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Henry AI Labs",
+    "url": "https://www.youtube.com/c/HenryAILabs",
+    "description": "Insights into the latest AI research and developments.",
+    "category": "YouTube Channels",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "AI Engineering",
+    "url": "https://www.youtube.com/c/AIEngineeringLife",
+    "description": "In-depth AI engineering and data science topics.",
+    "category": "YouTube Channels",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Hadelin de Ponteves",
+    "url": "https://www.youtube.com/c/HadelinDePonteves",
+    "description": "Courses and tutorials on AI and machine learning.",
+    "category": "YouTube Channels",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "CodeEmporium",
+    "url": "https://www.youtube.com/c/CodeEmporium",
+    "description": "Demystifying AI concepts through coding.",
+    "category": "YouTube Channels",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Python Programmer",
+    "url": "https://www.youtube.com/c/PythonProgrammer",
+    "description": "Focus on Python programming for AI and data science.",
+    "category": "YouTube Channels",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "School of AI",
+    "url": "https://www.youtube.com/c/SchoolofAI",
+    "description": "Dedicated to teaching AI to a global community.",
+    "category": "YouTube Channels",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "AI Sciences",
+    "url": "https://www.youtube.com/c/AISciences",
+    "description": "AI and ML tutorials and courses.",
+    "category": "YouTube Channels",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Python Engineer",
+    "url": "https://www.youtube.com/c/PythonEngineer",
+    "description": "Python programming with a focus on AI applications.",
+    "category": "YouTube Channels",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "sentdex",
+    "url": "https://www.youtube.com/user/sentdex",
+    "description": "Python programming tutorials with AI and ML focus.",
+    "category": "YouTube Channels",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Brandon Rohrer",
+    "url": "https://www.youtube.com/c/BrandonRohrer",
+    "description": "Simplifying machine learning concepts.",
+    "category": "YouTube Channels",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Data Professor",
+    "url": "https://www.youtube.com/c/DataProfessor",
+    "description": "Data science, bioinformatics, and AI content.",
+    "category": "YouTube Channels",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Daniel Bourke",
+    "url": "https://www.youtube.com/c/Mrdbourke",
+    "description": "Machine learning and AI tutorials.",
+    "category": "YouTube Channels",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Giant Neural Network",
+    "url": "https://www.youtube.com/c/GiantNeuralNetwork",
+    "description": "Exploring the world of neural networks.",
+    "category": "YouTube Channels",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Krish Naik",
+    "url": "https://www.youtube.com/user/krishnaik06",
+    "description": "Data science, machine learning, and AI tutorials.",
+    "category": "YouTube Channels",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Machine Learning Street Talk",
+    "url": "https://www.youtube.com/c/MachineLearningStreetTalk",
+    "description": "In-depth discussions on machine learning topics.",
+    "category": "YouTube Channels",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "MIT OpenCourseWare",
+    "url": "https://www.youtube.com/user/MIT",
+    "description": "Educational content from MIT, including AI lectures.",
+    "category": "YouTube Channels",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Paul G. Allen School",
+    "url": "https://www.youtube.com/user/UWCSE",
+    "description": "AI and computer science lectures from the University of Washington.",
+    "category": "YouTube Channels",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "The AI University",
+    "url": "https://www.youtube.com/c/TheAIUniversity",
+    "description": "Learning and development in AI and data science.",
+    "category": "YouTube Channels",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "The Sound of AI",
+    "url": "https://www.youtube.com/c/TheSoundofAI",
+    "description": "The intersection of AI and music technology.",
+    "category": "YouTube Channels",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Welch Labs",
+    "url": "https://www.youtube.com/user/Taylorns34",
+    "description": "Focusing on AI, neural networks, and deep learning.",
+    "category": "YouTube Channels",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "What's AI",
+    "url": "https://www.youtube.com/c/WhatsAI",
+    "description": "Breaking down AI concepts and news.",
+    "category": "YouTube Channels",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Machine Learning TV",
+    "url": "https://www.youtube.com/c/MachineLearningTV",
+    "description": "Machine learning tutorials and explanations.",
+    "category": "YouTube Channels",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Robert Brunhage",
+    "url": "https://www.youtube.com/c/RobertBrunhage",
+    "description": "Flutter, Dart, and AI programming tutorials.",
+    "category": "YouTube Channels",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "The AI Epiphany",
+    "url": "https://www.youtube.com/c/TheAIEpiphany",
+    "description": "Exploring AI technologies and concepts.",
+    "category": "YouTube Channels",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Stable Diffusion",
+    "url": "https://stablediffusion.com",
+    "description": "AI model for stable and high-quality image generation.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "MidJourney",
+    "url": "https://midjourney.com",
+    "description": "Advanced tool for AI-driven artistic image creation.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "DALL-E 3",
+    "url": "https://openai.com/dall-e-3",
+    "description": "Latest iteration of OpenAI's powerful image generation model.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "CivitAI",
+    "url": "https://civitai.com/models",
+    "description": "Platform offering various AI models including image generators. Works very well with midjourney",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "DeepArt",
+    "url": "https://deepart.io",
+    "description": "Turns your photos into artworks using AI.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Deep Dream Generator",
+    "url": "https://deepdreamgenerator.com",
+    "description": "AI-based deep learning tool for artistic image transformation.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Artbreeder",
+    "url": "https://artbreeder.com",
+    "description": "Collaborative AI tool for creating and editing images.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "RunwayML",
+    "url": "https://runwayml.com",
+    "description": "Creative toolkit powered by machine learning.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "VQGAN+CLIP",
+    "url": "https://vqgan-clip.com",
+    "description": "Text-to-image synthesis with AI.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "NightCafe Studio",
+    "url": "https://nightcafe.studio",
+    "description": "AI Art Generator using multiple techniques.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "DeepAI",
+    "url": "https://deepai.org",
+    "description": "AI-driven image synthesis and editing.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "This Person Does Not Exist",
+    "url": "https://thispersondoesnotexist.com",
+    "description": "Generates realistic human faces using AI.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Big Sleep",
+    "url": "https://github.com/lucidrains/big-sleep",
+    "description": "AI model for generating images from text descriptions.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "GANPaint Studio",
+    "url": "https://ganpaint.io",
+    "description": "Interactive tool for semantic photo manipulation.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "AI Gahaku",
+    "url": "https://ai-art.tokyo/en",
+    "description": "AI artist generating paintings from photos.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Deep Dream",
+    "url": "https://deepdreamgenerator.com",
+    "description": "Google's AI tool for dream-like image alterations.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Zyro AI Image Generator",
+    "url": "https://zyro.com/ai/image-generator",
+    "description": "Business-oriented image generation.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Deep Angel",
+    "url": "https://deepangel.media.mit.edu",
+    "description": "AI-driven tool for removing objects from images.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "PaintsChainer",
+    "url": "https://paintschainer.preferred.tech",
+    "description": "AI painting tool with various styles.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Fotor AI Photo Editor",
+    "url": "https://www.fotor.com",
+    "description": "AI-enhanced photo editing and image generation.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Hotpot.ai",
+    "url": "https://hotpot.ai",
+    "description": "AI services for design, art, and image editing.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "AI Picasso",
+    "url": "https://ai-picasso.com",
+    "description": "Generates Picasso-style artworks using AI.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Imagined by AI",
+    "url": "https://imagined.ai",
+    "description": "Text-to-image generation platform.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "GANBreeder",
+    "url": "https://ganbreeder.app",
+    "description": "Breed two images to create novel new ones using GANs.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Prisma",
+    "url": "https://prisma-ai.com",
+    "description": "Turns photos into artworks using AI filters.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Patternica",
+    "url": "https://patternica.ai",
+    "description": "AI-powered pattern design tool.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Playform",
+    "url": "https://playform.io",
+    "description": "AI tool for artists and creators.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Deep Nostalgia",
+    "url": "https://www.myheritage.com/deep-nostalgia",
+    "description": "Animates old photos using AI.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Wombo Dream",
+    "url": "https://www.wombo.art",
+    "description": "AI-powered art generator app.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Pixray",
+    "url": "https://pixray.com",
+    "description": "Text-to-image generation using AI.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "NeuralBlender",
+    "url": "https://neuralblender.com",
+    "description": "Uses AI to blend images and concepts creatively.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "GANSpace",
+    "url": "https://github.com/harskish/ganspace",
+    "description": "Discovering interpretable GAN controls.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "AI Logo Generator",
+    "url": "https://www.ailogogenerator.org",
+    "description": "Free online AI logo creator that generates professional company, business, and brand logos.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Caricature Maker",
+    "url": "https://caricaturemaker.net/",
+    "description": "photo to caricature using AI.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "AI Virtual Staging",
+    "url": "https://www.aivirtualstaging.net/",
+    "description": "AI powered virtual staging for real estate listings",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Twig",
+    "url": "https://www.twig.so/",
+    "description": "Twig is an AI assistant that resolves customer issues instantly, supporting both users and support agents 24/7.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "AssistantHunt",
+    "url": "https://assistanthunt.com",
+    "description": "Platform for finding AI-powered assistants.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Build Club",
+    "url": "https://www.buildclub.ai",
+    "description": "Global AI community and education platform",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Sora",
+    "url": "https://www.sora.com",
+    "description": "AI video generation platform from OpenAI.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Synthesia",
+    "url": "https://www.synthesia.io",
+    "description": "AI video generation platform.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "RunwayML",
+    "url": "https://runwayml.com",
+    "description": "AI toolkit for artists and creators.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Deep Video Portraits",
+    "url": "https://www.graphics.stanford.edu/projects/deepvideo",
+    "description": "AI-driven facial reenactment in videos.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Pictory",
+    "url": "https://pictory.ai",
+    "description": "AI-powered video editing and creation.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Lumen5",
+    "url": "https://lumen5.com",
+    "description": "AI-driven video maker for businesses.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Descript",
+    "url": "https://www.descript.com",
+    "description": "Video editing and transcription.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Rephrase.ai",
+    "url": "https://www.rephrase.ai",
+    "description": "Create AI-generated videos.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Deep Art Effects",
+    "url": "https://www.deeparteffects.com",
+    "description": "AI video art generator.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Elai.io",
+    "url": "https://elai.io",
+    "description": "AI video builder with custom avatars.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "AI Video Enhancer",
+    "url": "https://topazlabs.com/video-enhance-ai",
+    "description": "Enhance video quality using AI.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "GlitchAI",
+    "url": "https://glitchai.com",
+    "description": "AI for video glitch effects.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Kapwing AI Video Editor",
+    "url": "https://www.kapwing.com",
+    "description": "Online AI video editor.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Veed.io",
+    "url": "https://www.veed.io",
+    "description": "AI video editing and subtitles.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Fliki",
+    "url": "https://fliki.ai",
+    "description": "Turn text to speech videos.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Hour One",
+    "url": "https://www.hourone.ai",
+    "description": "AI characters for video generation.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "InVideo",
+    "url": "https://invideo.io",
+    "description": "Online video creator with AI.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Rosebud AI",
+    "url": "https://rosebud.ai",
+    "description": "Generate AI avatars for videos.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "AI Video Maker",
+    "url": "https://www.animaker.com/ai-video-maker",
+    "description": "Animaker’s AI video maker.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Vimeo Create",
+    "url": "https://vimeo.com/create",
+    "description": "AI-driven video creation.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Murf",
+    "url": "https://murf.ai",
+    "description": "AI Voiceover & text to speech for videos.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "FlexClip",
+    "url": "https://www.flexclip.com",
+    "description": "Easy-to-use AI video maker.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Wisecut",
+    "url": "https://www.wisecutvideo.com",
+    "description": "AI video editing with auto subtitles.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Neural Love",
+    "url": "https://neural.love",
+    "description": "AI for video restoration and enhancement.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "RendrFX",
+    "url": "https://www.rendrfx.com",
+    "description": "AI-based online video maker.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "D-ID",
+    "url": "https://www.d-id.com",
+    "description": "AI-driven video face animation.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Wave.video",
+    "url": "https://wave.video",
+    "description": "Video marketing platform.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "AI Video Creator",
+    "url": "https://www.aivideocreator.com",
+    "description": "Create videos with AI.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Firework",
+    "url": "https://firework.com",
+    "description": "Short video platform with AI.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Videobolt",
+    "url": "https://www.videobolt.net",
+    "description": "AI-assisted video maker.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Promo.com",
+    "url": "https://promo.com",
+    "description": "AI-driven video creation tool.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "ShortsKit.ai",
+    "url": "https://shortskit.ai",
+    "description": "AI-powered platform for creating short-form videos",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "AIVA",
+    "url": "https://www.aiva.ai",
+    "description": "AI music composition.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Amper Music",
+    "url": "https://www.ampermusic.com",
+    "description": "AI music creator.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Landr",
+    "url": "https://www.landr.com",
+    "description": "AI mastering and music creation.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Mubert",
+    "url": "https://mubert.com",
+    "description": "AI-driven generative music.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Boomy",
+    "url": "https://boomy.com",
+    "description": "Instantly create music with AI.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Endel",
+    "url": "https://endel.io",
+    "description": "AI for personalized soundscapes.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Jukedeck",
+    "url": "https://www.jukedeck.com",
+    "description": "Create unique music for videos.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Melodrive",
+    "url": "https://melodrive.com",
+    "description": "AI music composition software.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Sonic Pi",
+    "url": "https://sonic-pi.net",
+    "description": "The live coding music synth.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Google Magenta",
+    "url": "https://magenta.tensorflow.org",
+    "description": "AI and music research project.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Ecrett Music",
+    "url": "https://ecrettmusic.com",
+    "description": "AI music generator.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Soundraw.io",
+    "url": "https://soundraw.io",
+    "description": "AI music composer.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "NSynth Super",
+    "url": "https://nsynthsuper.withgoogle.com",
+    "description": "AI experiment in sound.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Humtap",
+    "url": "https://www.humtap.com",
+    "description": "Make music with AI.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Bronze",
+    "url": "https://bronze.ai",
+    "description": "AI-driven music platform.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Orb Composer",
+    "url": "https://www.orb-composer.com",
+    "description": "AI-powered music composition.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Soundful",
+    "url": "https://www.soundful.com",
+    "description": "AI-driven sound and music generation.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Amadeus Code",
+    "url": "https://www.amadeuscode.com",
+    "description": "AI songwriting assistant.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Bespoke Sounds",
+    "url": "https://bespokesound.co",
+    "description": "Custom AI music solutions.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Riffusion",
+    "url": "https://riffusion.com",
+    "description": "AI-generated riffs and soundscapes.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "SoundAI",
+    "url": "https://sound.ai",
+    "description": "AI for sound recognition and analysis.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "WaveAI",
+    "url": "https://www.wave-ai.net",
+    "description": "AI-powered music creation.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "AI Music",
+    "url": "https://aimusic.co.uk",
+    "description": "AI-driven adaptive music technology.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Infinite Music",
+    "url": "https://infinitemusic.io",
+    "description": "AI for generating endless music.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Dadabots",
+    "url": "https://dadabots.com",
+    "description": "AI for generating music.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "AI Mastering",
+    "url": "https://aimastering.com",
+    "description": "AI-powered audio mastering.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Loudly",
+    "url": "https://loudly.com",
+    "description": "AI music studio and sound library.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Audiolabs",
+    "url": "https://audiolabs-erlangen.de",
+    "description": "AI and sound research lab.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "AI Music Generator",
+    "url": "https://www.aimusicgenerator.com",
+    "description": "Generate music tracks with AI.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "SOUNDRAW",
+    "url": "https://soundraw.io",
+    "description": "AI music composition for creators.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "AIVA",
+    "url": "https://www.aiva.ai",
+    "description": "AI music composition platform.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Amper Music",
+    "url": "https://www.ampermusic.com",
+    "description": "Create music with AI.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Jukedeck",
+    "url": "https://www.jukedeck.com",
+    "description": "AI for creating unique music tracks.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Mubert",
+    "url": "https://mubert.com",
+    "description": "Generative music streaming.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Boomy",
+    "url": "https://boomy.com",
+    "description": "Instant music creation with AI.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Ecrett Music",
+    "url": "https://ecrettmusic.com",
+    "description": "AI music generator for videos.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Humtap",
+    "url": "https://www.humtap.com",
+    "description": "AI-driven music making.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Sonic Pi",
+    "url": "https://sonic-pi.net",
+    "description": "Live coding for music.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Endel",
+    "url": "https://endel.io",
+    "description": "Personalized sound environments.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Melodrive",
+    "url": "https://melodrive.com",
+    "description": "AI for interactive music.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Google Magenta",
+    "url": "https://magenta.tensorflow.org",
+    "description": "AI experiments in music.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Soundraw.io",
+    "url": "https://soundraw.io",
+    "description": "AI composer for creators.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "NSynth Super",
+    "url": "https://nsynthsuper.withgoogle.com",
+    "description": "Experiment with sounds.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Orb Composer",
+    "url": "https://www.orb-composer.com",
+    "description": "AI for music composition.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Bronze",
+    "url": "https://bronze.ai",
+    "description": "Music platform powered by AI.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Amadeus Code",
+    "url": "https://www.amadeuscode.com",
+    "description": "AI songwriting tool.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Infinite Music",
+    "url": "https://infinitemusic.io",
+    "description": "AI for endless music streams.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Bespoke Sounds",
+    "url": "https://bespokesound.co",
+    "description": "Custom music solutions.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "AI Music Generator",
+    "url": "https://www.aimusicgenerator.com",
+    "description": "Generate music with AI.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "WaveAI",
+    "url": "https://www.wave-ai.net",
+    "description": "AI-assisted music creation.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Landr",
+    "url": "https://www.landr.com",
+    "description": "AI mastering and music services.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Riffusion",
+    "url": "https://riffusion.com",
+    "description": "AI for music riff generation.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "AI Music",
+    "url": "https://aimusic.co.uk",
+    "description": "Adaptive music technology.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Soundful",
+    "url": "https://www.soundful.com",
+    "description": "AI music generation platform.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Dadabots",
+    "url": "https://dadabots.com",
+    "description": "AI-generated music streams.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "AI Mastering",
+    "url": "https://aimastering.com",
+    "description": "Automated audio mastering.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Loudly",
+    "url": "https://loudly.com",
+    "description": "AI music studio.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Audiolabs",
+    "url": "https://audiolabs-erlangen.de",
+    "description": "AI and music research.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "SOUNDRAW",
+    "url": "https://soundraw.io",
+    "description": "AI music composition for videos.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Lumen5",
+    "url": "https://lumen5.com",
+    "description": "AI-driven music video maker.",
+    "category": "Interactive Learning & Tools",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "GitHub Copilot",
+    "url": "https://copilot.github.com/",
+    "description": "AI pair programmer which suggests code snippets and entire functions in real-time.",
+    "category": "AI-Powered Compilers and Code Assistants",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "GoCodeo",
+    "url": "https://www.gocodeo.com/",
+    "description": "AI agent for building full-stack apps in minutes.",
+    "category": "AI-Powered Compilers and Code Assistants",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "JetBrains Compose Multiplatform",
+    "url": "https://www.jetbrains.com/lp/compose-multiplatform/",
+    "description": "AI-assisted code completion for Kotlin multiplatform development.",
+    "category": "AI-Powered Compilers and Code Assistants",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Tabnine",
+    "url": "https://www.tabnine.com/",
+    "description": "AI code completion assistant for software developers, supporting multiple languages and IDEs.",
+    "category": "AI-Powered Compilers and Code Assistants",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Kite",
+    "url": "https://www.kite.com/",
+    "description": "AI coding assistant offering line-of-code completions and documentation.",
+    "category": "AI-Powered Compilers and Code Assistants",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Codota",
+    "url": "https://www.codota.com/",
+    "description": "AI tool for developers that predicts your next code segment.",
+    "category": "AI-Powered Compilers and Code Assistants",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Intellicode",
+    "url": "https://visualstudio.microsoft.com/services/intellicode/",
+    "description": "AI-assisted coding from Microsoft, available in Visual Studio.",
+    "category": "AI-Powered Compilers and Code Assistants",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "SourceAI",
+    "url": "https://sourceai.dev/",
+    "description": "An AI-powered code generator that helps you write code faster.",
+    "category": "AI-Powered Compilers and Code Assistants",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "unpkg.ai",
+    "url": "https://unpkg.ai/",
+    "description": "AI-powered service that generates JavaScript modules with TypeScript signatures via URL for rapid prototyping.",
+    "category": "AI-Powered Compilers and Code Assistants",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "poorcoder",
+    "url": "https://github.com/vgrichina/poorcoder",
+    "description": "Lightweight Bash scripts that enhance your terminal coding workflow with web-based AI assistants like Claude or Grok.",
+    "category": "AI-Powered Compilers and Code Assistants",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "AI Code Completion by DeepCode",
+    "url": "https://www.deepcode.ai/",
+    "description": "AI-powered code review tool that learns from your codebase.",
+    "category": "AI-Powered Compilers and Code Assistants",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Replit's Ghostwriter",
+    "url": "https://replit.com/ghostwriter",
+    "description": "AI coding assistant that helps you write and debug code faster.",
+    "category": "AI-Powered Compilers and Code Assistants",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Roundtable",
+    "url": "https://github.com/askbudi/roundtable",
+    "description": "Zero-configuration MCP server that unifies multiple AI coding assistants (Claude Code, Cursor, Codex) through intelligent auto-discovery.",
+    "category": "AI-Powered Compilers and Code Assistants",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Facebook's Aroma",
+    "url": "https://research.fb.com/publications/aroma-code-to-code-search-and-recommendation/",
+    "description": "AI-based code-to-code search and recommendation tool.",
+    "category": "AI-Powered Compilers and Code Assistants",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Codex by OpenAI",
+    "url": "https://openai.com/blog/openai-codex/",
+    "description": "AI system that translates natural language to code, powered by GPT-3.",
+    "category": "AI-Powered Compilers and Code Assistants",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Deep TabNine Local",
+    "url": "https://www.tabnine.com/local",
+    "description": "Deep learning model running locally for code completion.",
+    "category": "AI-Powered Compilers and Code Assistants",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Berrry",
+    "url": "https://berrry.app",
+    "description": "AI-powered platform that transforms Twitter posts and Reddit content into functional web applications using code generation.",
+    "category": "AI-Powered Compilers and Code Assistants",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Havoptic",
+    "url": "https://havoptic.com/",
+    "description": "Free, open-source release tracker for AI coding tools. Aggregates changelogs from Cursor, Codex CLI, Gemini CLI, and more.",
+    "category": "AI-Powered Compilers and Code Assistants",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Keywords AI",
+    "url": "https://www.keywordsai.co/",
+    "description": "The enterprise-grade software to build, monitor, and improve your AI application. Keywords AI is a full-stack LLM engineering platform for developers and PMs.",
+    "category": "LLM Ops",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Helicone AI",
+    "url": "https://www.helicone.ai/",
+    "description": "The open-source LLM observability for developers.",
+    "category": "LLM Ops",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "LlamaIndex",
+    "url": "https://github.com/run-llama/llama_index",
+    "description": "LlamaIndex is a data framework for your LLM applications",
+    "category": "LLM Ops",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Mem0",
+    "url": "https://github.com/mem0ai/mem0",
+    "description": "The memory layer for Personalized AI",
+    "category": "LLM Ops",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Inferable",
+    "url": "https://github.com/inferablehq/inferable",
+    "description": "Open-source managed agent runtime for distributed AI agents",
+    "category": "LLM Ops",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Gestell",
+    "url": "https://gestell.ai",
+    "description": "Gestell takes your messy, unstructured data and turns it into organized, searchable databases so your AI can find answers quickly and accurately at any scale.",
+    "category": "LLM Ops",
+    "source": "eudk/awesome-ai-tools"
+  },
+  {
+    "name": "Price Per Token",
+    "url": "https://pricepertoken.com/",
+    "description": "Compare LLM API pricing across 300+ models from all major providers with token counters, cost calculators, and benchmark data.",
+    "category": "LLM Ops",
+    "source": "eudk/awesome-ai-tools"
+  }
+]
