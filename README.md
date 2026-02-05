@@ -30,7 +30,7 @@ This application provides an easy-to-use interface to browse thousands of AI sof
 
    or
 
-Go to 
+Go to 'https://aaronjanit.github.io/Awesome-AI-Software-Catalog/'
 ## Usage
 
 - **Home Page**: Search for tools or browse categories
@@ -43,11 +43,11 @@ Go to
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+)
 - **Backend**: Node.js with Express.js
 - **AI Integration**: Ollama for local AI recommendations
-- **Data**: JSON files containing software catalog data
+- **Data**: JSON files containing software catalog data, sourced from GitHub
 
 ## Data Sources
 
-The catalog data is sourced from:
+The catalog data is sourced from GitHub:
 - `software.json`: Main software catalog
 - `awesome-ai.json`: Additional AI tools data
 
@@ -67,3 +67,4 @@ This is a HackClub project. Feel free to contribute by:
 ## License
 
 This project is open-source and available under the MIT License.
+
